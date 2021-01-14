@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Планировшик задач</string>
+    <string name="curr_tasks">Текущие</string>
+    <string name="compl_tasks">Выполненные</string>
+    <string name="daily_tasks">Ежедневные</string>
+</resources>
